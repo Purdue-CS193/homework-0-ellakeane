@@ -1,3 +1,8 @@
+# Ella Keane's First CS193 Homework
+- The class is taught by fellow students so it doesn't feel as intimidating to me
+- It feels like a good intro course into the other CS courses I will have to take
+- There is no exams 
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
@@ -36,7 +41,4 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 
 Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
 
-# Ella Keane's First CS193 Homework
-- The class is taught by fellow students so it doesn't feel as intimidating to me
-- It feels like a good intro course into the other CS courses I will have to take
-- There is no exams 
+
